@@ -1,0 +1,20 @@
+# Godot
+.godot/
+*.tmp
+export/
+build/
+*.translation
+
+# test outputs
+_shots/
+
+# third-party reference images (FNAF screenshots) are NOT redistributed
+_references/2.webp
+_references/3.webp
+_references/4.webp
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+__pycache__/
